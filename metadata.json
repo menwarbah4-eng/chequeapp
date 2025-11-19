@@ -1,0 +1,7 @@
+{
+  "name": "Cheque Harmony",
+  "description": "A modern, mobile-first cheque management application with OCR capabilities, dashboard analytics, and Google Sheets integration readiness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
